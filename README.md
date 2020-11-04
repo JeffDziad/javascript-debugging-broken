@@ -1,2 +1,2 @@
 # javascript-debugging-broken
-This project contains 10 bugs for you to find!
+This project contains 12 bugs for you to find!
